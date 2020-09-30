@@ -1,3 +1,3 @@
 # netlify-plugin-test
 
-Branch 1
+Branch 2
